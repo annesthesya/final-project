@@ -1,0 +1,29 @@
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  height: 100vh;
+}
+
+.background {
+  background-color: #2b2f44;
+  background-image: url("https://www.transparenttextures.com/patterns/low-contrast-linen.png");
+}
+
+.sidebar {
+  /* background-color: #433860; */
+  background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
